@@ -1,0 +1,38 @@
+.navbar {
+    width: 100%;
+    background-color: rgb(247, 13, 13);
+    overflow: auto;
+  }
+  
+  
+  .navbar.a {
+    float: left;
+    text-align: center;
+    padding: 12px;
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .navbar.a:hover {
+    background-color: #000;
+  }
+  
+
+  .active {
+    background-color: #04AA6D;
+  }
+  
+
+  @media screen and (max-width: 500px) {
+    .navbar a {
+      float: none;
+      display: block;
+    }
+  }
+
+  .logo{
+    width: 100px;
+    height: 80px;
+    align-content: center;
+  }

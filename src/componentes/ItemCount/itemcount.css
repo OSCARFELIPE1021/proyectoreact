@@ -1,0 +1,12 @@
+.counter{
+   width: fit-content;
+   background-color: rgb(205, 71, 71);
+   margin: auto;
+   padding: 1rem;
+   text-align: center;
+
+}
+
+.botonagregar{
+   background-color: rgb(50, 78, 222);
+}
